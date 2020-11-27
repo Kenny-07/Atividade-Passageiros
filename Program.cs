@@ -17,9 +17,9 @@ namespace Atividade_Passageiros
             string[] data = new string [5];
 
             Console.Clear();
-            Console.WriteLine("-----------------------------------");
-            Console.WriteLine("----Sistema de passagens aéreas----");
-            Console.WriteLine("-----------------------------------");
+            Console.WriteLine("-------------------------------------");
+            Console.WriteLine("-----Sistema de passagens aéreas-----");
+            Console.WriteLine("-------------------------------------");
             
             
             do
